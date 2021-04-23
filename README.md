@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python-advanced and Tableau for data visualisation
+- 🌱 I’m currently learning Java, Python-advanced and AWS.
 - 💞️ I’m looking to collaborate on open source projects related to python
 - 📫 How to reach me jay.veer1@protonmail.com
 
