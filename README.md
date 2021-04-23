@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Java, Python-advanced and AWS.
-- 💞️ I’m looking to collaborate on open source projects related to python
+- 💞️ I’m looking to collaborate on open source projects related to these.
 - 📫 How to reach me jay.veer1@protonmail.com
 
 <!---
