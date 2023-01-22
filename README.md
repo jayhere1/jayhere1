@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m a Full stack developer working with Python, Vue and AWS.
-- 🌱 I’m currently learning Golang, Java, Scala, Spark and AWS.
+- 🌱 I’m currently learning Golang and Rust.
 - 💞️ I’m looking to collaborate on open source projects related to these.
 - 📫 How to reach me jay.veer1@protonmail.com
 
