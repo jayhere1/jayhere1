@@ -15,7 +15,7 @@ I'm a software engineer with 5+ years of experience building scalable applicatio
 ## 🚀 Current Projects
 - Building an ML model for Parkinson's disease prediction using sensor data
 - Developing a vision-based deep learning model for brain aneurysm detection
-- Creating a customizable LLM platform supporting multiple providers (OpenAI, Claude, LLAMA)
+- Creating a customizable LLM platform supporting multiple providers (OpenAI, Claude, LLAMA) and multi-agent AI (Crew AI, Autogen).
 - Working on an AI-powered biomechanics prediction tool
 
 ## 🎯 Areas of Interest
