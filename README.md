@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Cloud Architect | AI/ML Enthusiast
 
-I'm a software engineer with 5+ years of experience building scalable applications and cloud-native solutions. Currently working at EMIS Group on healthcare data platforms and pipeline modernization.
+I'm a software engineer with 5+ years of experience building scalable applications and cloud-native solutions. Currently working at Optum UK on healthcare data platforms and pipeline modernization.
 
 ## 🔧 Technical Stack
 - **Languages:** Python, JavaScript, Golang, Rust, Java, Shell Script
